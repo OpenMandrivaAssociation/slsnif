@@ -10,6 +10,7 @@ Source0:  http://ovh.dl.sourceforge.net/sourceforge/slsnif/%{name}-%{version}.ta
 License: GPL 
 Group: Monitoring
 Url: http://sourceforge.net/projects/slsnif/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 
 %description

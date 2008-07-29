@@ -1,6 +1,6 @@
 %define name slsnif
 %define version 0.4.4
-%define release %mkrel 3
+%define release %mkrel 5
 
 Summary: A serial sniffer 
 Name: %{name}
